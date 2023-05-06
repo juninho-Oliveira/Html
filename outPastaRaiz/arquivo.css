@@ -1,0 +1,12 @@
+
+
+#caixas {
+    background: red;
+    font-size: 18px;
+    color: white;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
